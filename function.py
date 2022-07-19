@@ -48,4 +48,15 @@ pounds=8
 drogna=2 
 currency_converter(drogna, pounds)
 
+def currency_converter(rate, amount):
+    # modify the code below
+    print(amount * rate)
+currency_converter(4,2) 
+
+
+def add(num1, num2):
+    result = num1 + num2
+    return result
+sum = add (67,89)
+print(sum)
 
