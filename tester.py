@@ -17,4 +17,7 @@ print (sum)
 msg = "yoyoyoyoy"
 print(msg)
 
+msg = "wow this is interesting"
+print(msg)
+
 
