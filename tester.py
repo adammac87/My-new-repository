@@ -20,4 +20,11 @@ print(msg)
 msg = "wow this is interesting"
 print(msg)
 
+greeting = "hello"
+name = "dave"
+sentence = greeting + " "  + name
 
+print (sentence)
+
+age = 21
+print(age)
