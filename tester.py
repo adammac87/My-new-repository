@@ -14,3 +14,7 @@ sum = a_half + a_quarter
 
 print (sum)
 
+msg = "yoyoyoyoy"
+print(msg)
+
+
