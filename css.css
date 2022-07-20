@@ -1,4 +1,20 @@
 p {
     color: red;
   }
-  
+  a {
+    color: red;
+  }
+  .center {
+    text-align: center;
+    color: red;
+  }  
+  #main-paragraph {
+    background-color: yellow;
+    color: blueviolet;
+  }
+  body p {
+    color: red;
+  }  
+  body > section > p {
+    color: blue;
+}
